@@ -1,2 +1,3 @@
 # PinPonGame
-pinpon oyunu
+ iki kişilik pinnpon oyunu
+ 
